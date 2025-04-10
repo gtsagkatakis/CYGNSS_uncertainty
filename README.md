@@ -11,3 +11,18 @@ learning methods, the considered framework also provides prediction intervals to
 observations from the Yanco SMAP core validation site in southeast Australia over a period of three years, we quantify
 the performance in terms of both retrieval accuracy and associated uncertainty. Furthermore, using noisy observations,
 we experimentally demonstrate the impact of input noise on the prediction uncertainty.
+
+## Citation
+
+If you use this code or find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{tsagkatakis2024uncertainty,
+  author = {G. Tsagkatakis et al.},
+  title = {Uncertainty Quantification in Machine Learning Based Retrieval of Soil Moisture From GNSS-R Observations},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  year = {2024},
+  volume = {62},
+  doi = {10.1109/TGRS.2024.3387452},
+  url = {https://ieeexplore.ieee.org/abstract/document/10642241}
+}
