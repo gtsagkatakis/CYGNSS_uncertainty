@@ -14,7 +14,7 @@ we experimentally demonstrate the impact of input noise on the prediction uncert
 
 ## Citation
 
-If you use this code or find our work useful in your research, please consider citing our paper:
+If you use this code or find our work useful in your research, please consider citing [our paper](https://ieeexplore.ieee.org/abstract/document/10642241):
 
 ```bibtex
 @article{tsagkatakis2024uncertainty,
