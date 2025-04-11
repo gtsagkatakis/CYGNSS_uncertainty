@@ -12,6 +12,9 @@ observations from the Yanco SMAP core validation site in southeast Australia ove
 the performance in terms of both retrieval accuracy and associated uncertainty. Furthermore, using noisy observations,
 we experimentally demonstrate the impact of input noise on the prediction uncertainty.
 
+## Presentations
+[IGARSS2024](./TH2.R10.8.pdf)
+
 ## Acknowledgments
 
 This work was supported by the [TITAN](https://spl.ics.forth.gr/titan/) ERA Chair project (contract no. 101086741) within the Horizon Europe Framework Program of the European Commission, and by NASA grant number 80NSSC18K0704 with the University of Southern California.
